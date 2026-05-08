@@ -2,11 +2,17 @@
 
 Fullstack Developer con enfoque en backend y experiencia construyendo aplicaciones web, APIs escalables e integraciones entre sistemas.
 
-Trabajo principalmente con **Node.js**, **TypeScript**, **NestJS** y bases de datos SQL/NoSQL, aplicando principios SOLID, arquitectura modular y desarrollo orientado a resultados.
+Trabajo principalmente con **Node.js**, **TypeScript** y **NestJS**, aplicando principios SOLID, arquitectura modular y desarrollo orientado a resultados.
 
 También desarrollo interfaces modernas con React, Next.js y TailwindCSS, lo que me permite construir soluciones end-to-end eficientes.
 
 Actualmente enfocado en arquitectura de software, microservicios, automatización con IA y flujos de integración complejos con APIs externas 🚀
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Córdoba,_Argentina-0C447C?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to_work-0F6E56?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building_with_AI-534AB7?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
 
 ---
 
@@ -46,9 +52,10 @@ Actualmente enfocado en arquitectura de software, microservicios, automatizació
 ---
 
 ## 🚀 Currently Learning
+
 - Microservices & event-driven architecture
 - Advanced system integrations (ERP / APIs)
-- AI-powered automation (Claude + n8n)
+- AI-powered automation · Claude + n8n
 - Claude Code & AI-assisted development workflows
 
 ---
