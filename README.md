@@ -2,11 +2,11 @@
 
 Fullstack Developer con enfoque en backend y experiencia construyendo aplicaciones web, APIs escalables e integraciones entre sistemas.
 
-Trabajo principalmente con Node.js, TypeScript y bases de datos SQL/NoSQL, aplicando buenas prácticas como principios SOLID, arquitectura modular y desarrollo orientado a resultados.
+Trabajo principalmente con **Node.js**, **TypeScript**, **NestJS** y bases de datos SQL/NoSQL, aplicando principios SOLID, arquitectura modular y desarrollo orientado a resultados.
 
 También desarrollo interfaces modernas con React, Next.js y TailwindCSS, lo que me permite construir soluciones end-to-end eficientes.
 
-Actualmente enfocado en arquitectura de software, microservicios e integraciones complejas con APIs externas 🚀
+Actualmente enfocado en arquitectura de software, microservicios, automatización con IA y flujos de integración complejos con APIs externas 🚀
 
 ---
 
@@ -14,6 +14,7 @@ Actualmente enfocado en arquitectura de software, microservicios e integraciones
 
 ### 🚀 Backend
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -24,10 +25,16 @@ Actualmente enfocado en arquitectura de software, microservicios e integraciones
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI & Automation
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### ⚙️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)
 
@@ -39,9 +46,9 @@ Actualmente enfocado en arquitectura de software, microservicios e integraciones
 ---
 
 ## 🚀 Currently Learning
-
-- Microservices architecture
+- Microservices & event-driven architecture
 - Advanced system integrations (ERP / APIs)
-- Automation with AI
+- AI-powered automation (Claude + n8n)
+- Claude Code & AI-assisted development workflows
 
 ---
